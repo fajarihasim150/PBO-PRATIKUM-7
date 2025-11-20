@@ -12,4 +12,4 @@ m2 = Mahasiswa("firman", "121055520121048")
 m1.perkenalan()
 m2.perkenalan()
 
-print("NIM fajri:", m1.nim)
+print("NIM Budi:", m1.nim)
